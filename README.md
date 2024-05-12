@@ -5,20 +5,20 @@ Data Structures –
 2. Treap
 
 Roles – 
-Project manager
+Project manager:
 Madhu Shraya
 
-Business Analyst
+Business Analyst:
 Bharat Kameswaran
 
-Developers
+Developers:
 Ashwin V
 Madhu Shraya
 Gaurav Mahesh
 Manasvi
 Niharika
 
-Tester
+Tester:
 Mohammed Farhan K
  
 Project Overview –

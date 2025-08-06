@@ -16,7 +16,7 @@ public:
     veb *summary;
     vector<veb *> clusters;
 
-    // Constructor to initialize the vEB tree
+    // Constructor to initialize the van Emde Boas Tree tree
     veb(int size)
     {
         universeSize = size;
@@ -429,3 +429,4 @@ int veb::successor(veb *tree, int num)
         }
     }
 }
+
